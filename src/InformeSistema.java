@@ -70,7 +70,21 @@ public static void SISTEMA(){
 
 }
     public static void PROPIEDADES(){
+        String version = System.getProperty("java.version");
+        String versionDate = System.getProperty("java.version.date");
+        String osArch = System.getProperty("os.arch");
+        String osName = System.getProperty("os.name");
+        String osVersion = System.getProperty("os.version");
+        String userCountry = System.getProperty("user.country ");
+        String dir = System.getProperty("os.arch");
+        String home = System.getProperty("os.arch");
+        String language = System.getProperty("os.arch");
+        String userName = System.getProperty("os.arch");
 
+
+        System.out.println(version);
+        System.out.println(versionDate);
+        System.out.println(osArch);
 
     }
 
@@ -80,6 +94,7 @@ public static void SISTEMA(){
         InformeSistema.NumProcesos();
         InformeSistema.Memoria();
         InformeSistema.SISTEMA();
+        InformeSistema.PROPIEDADES();
     }
 
 
