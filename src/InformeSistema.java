@@ -103,7 +103,7 @@ public static void SISTEMA(){
         System.out.println("\t ============================================================");
         System.out.println("\t Buscame desde otra terminal con:");
         System.out.println("\t  ps -ef | grep InformeSistema");
-        System.out.println(" ");
+        System.out.println("  ");
         System.out.println("\tPulsa INTRO para terminar...");
         System.out.println("\tFin del programa.");
         Scanner enter = new Scanner(System.in);
