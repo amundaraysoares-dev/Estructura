@@ -16,7 +16,7 @@ Para saber como ejecutarlo desde la terminal use gemini y le pregunte lo siguien
 ![ps](capturas/Captura%20desde%202026-09-18%2012-05-42.png)
 
 ¿Cambia el PPID? ¿Por que?
-- Si que cambia, esto sucede ya que al ejecutarlo de sitieos distinetos tienen un identificador de PPID distinto (como di fuera una tarjeta identificatoria)
+- Si que cambia, esto sucede ya que al ejecutarlo de sitios distintos tienen un identificador de PPID distinto (como di fuera una tarjeta identificatoria)
  
 
 
